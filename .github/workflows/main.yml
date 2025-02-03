@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: planeoftheweb/Lin-Project2@main
+        uses: planetoftheweb/Lin-Project2@main
